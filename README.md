@@ -1,6 +1,6 @@
 
 #ip2urldns.ps1
-##Resolve DNS and landing page of an ip hostlist
+##Resolve DNS and landing url of an ip hostlist
 
 1. Import your ip hostlist as a csv file with the column headers IP with all your ips, URL and Hostname both left blank.
 2. Modify line 7 with the file path of the csv hostlist.
