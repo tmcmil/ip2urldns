@@ -4,7 +4,7 @@
 ###################################################################################################################
 #Set Location of CSV hostlist with column headers "IP" containing all ips and an empty "URL" and "Hostname" column#
 ###################################################################################################################
-$filepath = "Z:\HACKING\Google Drive\Google Drive\assessment\scripts\powershell\test.csv" 
+$filepath = "Z:\Google Drive\assessment\scripts\powershell\ip_hostlist.csv" 
 
 ##############################
 #Import File in $ips variable#
