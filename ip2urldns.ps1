@@ -1,5 +1,6 @@
 ###################################################################################################################
-#                                                   ip2urldns.ps1                                                 #
+#                                                   ip2urldns.ps1
+#                                                       tmcmil
 #                                   Resolve DNS and landing page of an ip spreadsheet                             #
 ###################################################################################################################
 #Set Location of CSV hostlist with column headers "IP" containing all ips and an empty "URL" and "Hostname" column#
